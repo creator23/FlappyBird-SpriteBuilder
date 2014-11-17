@@ -23,5 +23,5 @@
 [character flap];
 }
 
-}
+
 @end
